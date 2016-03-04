@@ -1,0 +1,24 @@
+{
+  "name": "requestlog",
+  "version": "0.0.1",
+  "description": "Unified request logs for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:veoo/requestlog.git"
+  },
+  "author": "Richard Lyon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veoo/requestlog/issues"
+  },
+  "homepage": "https://github.com/veoo/requestlog",
+  "dependencies": {
+    "on-finished": "^2.3.0",
+    "chalk": "^1.1.1",
+    "moment": "^2.11.2"
+  }
+}
